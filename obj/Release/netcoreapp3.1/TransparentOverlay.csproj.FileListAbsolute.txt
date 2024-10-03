@@ -1,0 +1,13 @@
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.exe
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.deps.json
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.runtimeconfig.json
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.runtimeconfig.dev.json
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.dll
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\bin\Release\netcoreapp3.1\TransparentOverlay.pdb
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.csprojAssemblyReference.cache
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.AssemblyInfoInputs.cache
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.AssemblyInfo.cs
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.csproj.CoreCompileInputs.cache
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.dll
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.pdb
+C:\Users\yosua\TransparentOverlay\TransparentOverlay\obj\Release\netcoreapp3.1\TransparentOverlay.genruntimeconfig.cache
