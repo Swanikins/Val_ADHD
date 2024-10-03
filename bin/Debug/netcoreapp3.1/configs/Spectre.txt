@@ -1,3 +1,0 @@
-Line Length: 235
-Line Width: 3
-Angle: 27
